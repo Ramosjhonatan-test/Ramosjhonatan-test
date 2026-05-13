@@ -9,7 +9,7 @@
 
 <br><br>
 
-* 🎓 Soy estudiante de la carrera de **Ingeniería de Sistemas** en mi universidad.
+* 🎓 Soy estudiante de la carrera de **Ingeniería de Sistemas** .
 * 🚀 Me apasiona desarrollar software y usar la tecnología como solución a problemas reales.
 * 💻 Me interesa el desarrollo web, bases de datos y nuevas tecnologías.
 * 🧠 Actualmente estoy aprendiendo y mejorando mis habilidades en programación y desarrollo de software.
